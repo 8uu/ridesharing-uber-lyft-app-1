@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764459208509",
+    "project_id": "ridesharing-uber-lyft-app2",
+    "storage_bucket": "ridesharing-uber-lyft-app2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764459208509:android:37794b1c7284453360ff54",
+        "android_client_info": {
+          "package_name": "com.binsaleh.ridesharing2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764459208509-s4p4h7t8qlsljulabmujri4r8n2ogkqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADBbNhD0AnV2z2EVJNZ89Mqji1NWg6A_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764459208509-s4p4h7t8qlsljulabmujri4r8n2ogkqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
